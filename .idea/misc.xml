@@ -3,9 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/My Apps/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.194" />
         <entry key="..\:/My Apps/app/src/main/res/drawable/ic_iphone_13__12_pro_max___1.xml" value="0.145" />
+        <entry key="..\:/My Apps/app/src/main/res/drawable/ic_launcher_background.xml" value="0.194" />
+        <entry key="..\:/My Apps/app/src/main/res/drawable/ic_result1.xml" value="0.194" />
+        <entry key="..\:/My Apps/app/src/main/res/layout/activity_contact.xml" value="0.371875" />
         <entry key="..\:/My Apps/app/src/main/res/layout/activity_home.xml" value="0.371875" />
         <entry key="..\:/My Apps/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/My Apps/app/src/main/res/layout/contact_list_item.xml" value="0.371875" />
+        <entry key="..\:/My Apps/app/src/main/res/layout/content_main.xml" value="0.371875" />
+        <entry key="..\:/My Apps/app/src/main/res/layout/layout_add_contact.xml" value="0.371875" />
+        <entry key="..\:/My Apps/app/src/main/res/layout/menu.xml" value="0.3578125" />
+        <entry key="..\:/My Apps/app/src/main/res/menu/main_menu.xml" value="0.371875" />
+        <entry key="..\:/My Apps/app/src/main/res/menu/menu_main.xml" value="0.371875" />
+        <entry key="..\:/My Apps/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.194" />
+        <entry key="..\:/My Apps/app/src/main/res/xml/theme.xml" value="0.371875" />
+        <entry key="..\:/My Apps/app/src/main/res/xml/theme2.xml" value="0.371875" />
       </map>
     </option>
   </component>

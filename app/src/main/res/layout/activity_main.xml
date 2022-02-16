@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@drawable/ic_bg4">
+    android:background="@drawable/ic_result1">
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
